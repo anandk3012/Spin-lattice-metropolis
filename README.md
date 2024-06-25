@@ -1,7 +1,4 @@
-# Spin-lattice-montecarlo
-
-Here's the extracted text from the provided PDF, ensuring all symbols and formulas are accurate:
-
+# Spin-lattice-montecarlo-method
 ---
 
 ### Project - Spin interaction
