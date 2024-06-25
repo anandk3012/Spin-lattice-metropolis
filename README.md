@@ -20,7 +20,7 @@ Randomly flip spins according to this probability, using the Metropolis algorith
 
 Try different parameters with \(J\) from 0.1 to 0.9, and \(k_B T\) from \(10^{-2}\) to \(10^{2}\). Calculate the magnetization in the equilibrated state
 
-\[M = \left( \sum_i \sigma_i \right) / (N^2) \tag{3}\]
+M = (∑_i σ_i) / (N^2)
 
 Analyze how the magnetization varies with \(k_B T\) and see if there is a phase transition with temperature.
 
