@@ -16,6 +16,6 @@ Try different parameters with J from 0.1 to 0.9, and (k_B*T) from 10^{-2} to 10^
 Calculate the magnetization in the equilibrated state : 
   M = (∑_i σ_i) / (N^2)
 
-Analyze how the magnetization varies with (k_B*T) and see if there is a phase transition with temperature.
+Analyze how the magnetization varies with (k_B * T) and see if there is a phase transition with temperature.
 
 ---
