@@ -19,3 +19,24 @@ Calculate the magnetization in the equilibrated state :
 Analyze how the magnetization varies with (k_B * T) and see if there is a phase transition with temperature.
 
 ---
+
+## How to Run
+
+This repository contains all code and notebooks required to simulate the 2D Ising model using the Metropolis algorithm. The main logic is implemented in Python scripts, and results can be visualized and explored interactively using the provided Jupyter notebook.
+
+- All simulation and plotting code is in Python files in this directory.
+- The main entry point for running experiments and visualizations is the `test.ipynb` Jupyter notebook.
+- You can change parameters such as lattice size, temperature, coupling constant, and number of iterations directly in the notebook cells.
+- The notebook demonstrates:
+  - Lattice visualization
+  - Energy convergence for different parameters
+  - Magnetization as a function of temperature
+  - Animated visualization of spin lattice evolution
+
+**To run the simulation and generate plots/animations:**
+
+1. Open `test.ipynb` in Jupyter Notebook or VS Code.
+2. Run all cells sequentially, or modify parameters as needed and rerun.
+3. Output plots and animations will be saved in the `plots/` and `animations/` folders.
+
+RUN test.ipynb to run the algorithm and change parameters as
